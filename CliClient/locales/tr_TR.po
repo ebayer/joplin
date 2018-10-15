@@ -238,142 +238,157 @@ msgid ""
 msgstr ""
 
 msgid "To move from one pane to another, press Tab or Shift+Tab."
-msgstr ""
+msgstr "Bir pencereden diğerine geçmek için Tab veya Shift+Tab tuşuna basın."
 
 msgid ""
 "Use the arrows and page up/down to scroll the lists and text areas "
 "(including this console)."
 msgstr ""
+"Liste ve metin alanlarını (konsol da dahil) kaydırmak için ok tuşlarını ve "
+"page up/down kullanın."
 
 msgid "To maximise/minimise the console, press \"tc\"."
-msgstr ""
+msgstr "Konsol penceresini büyütmek/küçültmek için \"tc\" tuşlarına basın."
 
 msgid "To enter command line mode, press \":\""
-msgstr ""
+msgstr "Komut satırı moduna geçmek için \":\" tuşuna basın"
 
 msgid "To exit command line mode, press ESCAPE"
-msgstr ""
+msgstr "Komut satırı modundan çıkmak için ESCAPE tuşuna basın"
 
 msgid ""
 "For the list of keyboard shortcuts and config options, type `help keymap`"
 msgstr ""
+"Klavye kısayollarının listesi ve ayar seçenekleri için `help keymap` yazın"
 
 msgid "Imports data into Joplin."
-msgstr ""
+msgstr "Joplin içine veri aktarır."
 
 #, javascript-format
 msgid "Source format: %s"
-msgstr ""
+msgstr "Kaynak biçim: %s"
 
 msgid "Do not ask for confirmation."
-msgstr ""
+msgstr "Onay için sorma."
 
 #, javascript-format
 msgid "Found: %d."
-msgstr ""
+msgstr "Bulunan: %d."
 
 #, javascript-format
 msgid "Created: %d."
-msgstr ""
+msgstr "Yaratılan: %d."
 
 #, javascript-format
 msgid "Updated: %d."
-msgstr ""
+msgstr "Güncellenen: %d."
 
 #, javascript-format
 msgid "Skipped: %d."
-msgstr ""
+msgstr "Atlanan: %d."
 
 #, javascript-format
 msgid "Resources: %d."
-msgstr ""
+msgstr "Kaynaklar: %d."
 
 #, javascript-format
 msgid "Tagged: %d."
-msgstr ""
+msgstr "Etiketlenen: %d."
 
 msgid "Importing notes..."
-msgstr ""
+msgstr "Notlar içeri aktarılıyor..."
 
 #, javascript-format
 msgid "The notes have been imported: %s"
-msgstr ""
+msgstr "Notlar içeri aktarıldı: %s"
 
 msgid ""
 "Displays the notes in the current notebook. Use `ls /` to display the list "
 "of notebooks."
 msgstr ""
+"Mevcut defterdeki notları gösteir. Defter listesini görüntülemek için `ls /` "
+"kullanın."
 
 msgid "Displays only the first top <num> notes."
-msgstr ""
+msgstr "Sadece ilk <num> adet notu gösterir."
 
 msgid "Sorts the item by <field> (eg. title, updated_time, created_time)."
 msgstr ""
+"Nesneyi <field> alanına (örn: başlık, güncellenme zamanı, yaratılma zamanı) "
+"göre göre sıralar."
 
 msgid "Reverses the sorting order."
-msgstr ""
+msgstr "Sıralamayı tersine çevirir."
 
 msgid ""
 "Displays only the items of the specific type(s). Can be `n` for notes, `t` "
 "for to-dos, or `nt` for notes and to-dos (eg. `-tt` would display only the "
 "to-dos, while `-ttd` would display notes and to-dos."
 msgstr ""
+"Sadece belirtilen tipte nesneleri gösterir. Notlar için `n`, yapılacak işler "
+"listeleri için `t`, veya not ve yapılacak işler listeleri için `nt` "
+"kullanılabilir (örn: `-tt` sadece yapılacak işler listelerini gösterken, `-"
+"ttd` notlar ve yapılacak işler listelerini gösterir."
 
 msgid "Either \"text\" or \"json\""
-msgstr ""
+msgstr "\"metin\" veya \"json\" olabilir"
 
 msgid ""
 "Use long list format. Format is ID, NOTE_COUNT (for notebook), DATE, "
 "TODO_CHECKED (for to-dos), TITLE"
 msgstr ""
+"Uzun liste biçimi kullan. Biçim ID, NOT_SAYISI (defter için), TARİH, "
+"TAMAMLANMA DURUMU (yapılacak işler listeleri için), BAŞLIK"
 
 msgid "Please select a notebook first."
-msgstr ""
+msgstr "Lütfen önce bir defter seçin."
 
 msgid "Creates a new notebook."
-msgstr ""
+msgstr "Yeni bir defter yaratır."
 
 msgid "Creates a new note."
-msgstr ""
+msgstr "Yeni bir not yaratır."
 
 msgid "Notes can only be created within a notebook."
-msgstr ""
+msgstr "Notlar sadece bir defter içinde yaratılabilir."
 
 msgid "Creates a new to-do."
-msgstr ""
+msgstr "Yeni bir yapılacak işler listesi yaratır."
 
 msgid "Moves the notes matching <note> to [notebook]."
-msgstr ""
+msgstr "<note> ile işleşen notları [notebook] içine taşır."
 
 msgid "Renames the given <item> (note or notebook) to <name>."
-msgstr ""
+msgstr "Verilen <item> nesnesini (not veya defter) <name> ismi ile değiştirir."
 
 msgid "Deletes the given notebook."
-msgstr ""
+msgstr "Verilen defteri siler."
 
 msgid "Deletes the notebook without asking for confirmation."
-msgstr ""
+msgstr "Defteri onay almadan siler."
 
 msgid ""
 "Delete notebook? All notes and sub-notebooks within this notebook will also "
 "be deleted."
 msgstr ""
+"Defter silinsin mi? Bu defter içindeki tüm notlar ve alt defterler de "
+"silinecek."
 
 msgid "Deletes the notes matching <note-pattern>."
-msgstr ""
+msgstr "<note-pattern> ile eşleşen notları siler."
 
 msgid "Deletes the notes without asking for confirmation."
-msgstr ""
+msgstr "Notları onay almadan siler."
 
 #, javascript-format
 msgid "%d notes match this pattern. Delete them?"
-msgstr ""
+msgstr "%d adet not bu kalıp ile eşleşti. Silinsin mi?"
 
 msgid "Delete note?"
-msgstr ""
+msgstr "Not silinsin mi?"
 
 msgid "Searches for the given <pattern> in all the notes."
-msgstr ""
+msgstr "Verilen <pattern> kalıbı için tüm notlarda arama yapar."
 
 #, javascript-format
 msgid ""
@@ -384,34 +399,37 @@ msgid ""
 msgstr ""
 
 msgid "Displays summary about the notes and notebooks."
-msgstr ""
+msgstr "Notlar ve defterler ile ilgili özet gösterir."
 
 msgid "Synchronises with remote storage."
-msgstr ""
+msgstr "Uzak depolama ile eşleştirir."
 
 msgid "Sync to provided target (defaults to sync.target config value)"
 msgstr ""
+"Belirtilen hedef ile (öntanımlı sync.target ayarının değeri) eşleştirme "
+"başlatır"
 
 msgid ""
 "Authentication was not completed (did not receive an authentication token)."
-msgstr ""
+msgstr "Kimlik doğrulama tamamlanmadı (kimlik doğrulama jetonu gelmedi)."
 
 msgid ""
 "To allow Joplin to synchronise with Dropbox, please follow the steps below:"
-msgstr ""
+msgstr "Joplin'i Dropbox ile eşleştirmek için aşağıdaki adımları izleyin:"
 
 msgid "Step 1: Open this URL in your browser to authorise the application:"
-msgstr ""
+msgstr "Adım 1: Uygulamayı yetkilendirmek için bu adresi tarayıcınızda açın:"
 
 msgid "Step 2: Enter the code provided by Dropbox:"
-msgstr ""
+msgstr "Adım 2: Dropbox tarafından verilen kodu girin:"
 
 #, javascript-format
 msgid "Not authentified with %s. Please provide any missing credentials."
 msgstr ""
+"%s ile kimlik doğrulanamadı. Lütgen eksik kimlik bilgilerini tamamlayın."
 
 msgid "Synchronisation is already in progress."
-msgstr ""
+msgstr "Eşleştirme zaten devam ediyor."
 
 #, javascript-format
 msgid ""
@@ -419,19 +437,22 @@ msgid ""
 "taking place, you may delete the lock file at \"%s\" and resume the "
 "operation."
 msgstr ""
+"Kilit dosyası zaten tutuluyor. Eğer şu an çalışan bir eşleştirme "
+"olmadığından eminseniz, \"%s\" dosyasını silip işlemi yeniden "
+"başlatabilirsiniz."
 
 #, javascript-format
 msgid "Synchronisation target: %s (%s)"
-msgstr ""
+msgstr "Eşleştirme hedefi: %s (%s)"
 
 msgid "Cannot initialize synchroniser."
-msgstr ""
+msgstr "Eşleştirme başlatılamadı."
 
 msgid "Starting synchronisation..."
-msgstr ""
+msgstr "Eşleştirme başlıyor..."
 
 msgid "Cancelling... Please wait."
-msgstr ""
+msgstr "İptal ediliyor... Lütfen bekleyin."
 
 msgid ""
 "<tag-command> can be \"add\", \"remove\" or \"list\" to assign or remove "
@@ -441,7 +462,7 @@ msgstr ""
 
 #, javascript-format
 msgid "Invalid command: \"%s\""
-msgstr ""
+msgstr "Geçersiz komut: \"%s\""
 
 msgid ""
 "<todo-command> can either be \"toggle\" or \"clear\". Use \"toggle\" to "
@@ -451,50 +472,53 @@ msgid ""
 msgstr ""
 
 msgid "Marks a to-do as non-completed."
-msgstr ""
+msgstr "Yapılacak iş adımını tamamlanmadı olarak işaretler."
 
 msgid ""
 "Switches to [notebook] - all further operations will happen within this "
 "notebook."
 msgstr ""
+"[notebook] isimli deftere geçer - bundan sonraki tüm işlemler bu defter "
+"içinde gerçekleşecektir."
 
 msgid "Displays version information"
-msgstr ""
+msgstr "Sürüm bilgisini görüntüler"
 
 #, javascript-format
 msgid "%s %s (%s)"
-msgstr ""
+msgstr "%s %s (%s)"
 
 msgid "Enum"
-msgstr ""
+msgstr "Numara"
 
 #, javascript-format
 msgid "Type: %s."
-msgstr ""
+msgstr "Tip: %s."
 
 #, javascript-format
 msgid "Possible values: %s."
-msgstr ""
+msgstr "Olası değerler: %s."
 
 #, javascript-format
 msgid "Default: %s"
-msgstr ""
+msgstr "Öntanımlı: %s"
 
 msgid "Possible keys/values:"
-msgstr ""
+msgstr "Öntanımlı anahtar/değerler:"
 
 msgid "Type `joplin help` for usage information."
-msgstr ""
+msgstr "Kullanım bilgisi için `joplin help` yazın."
 
 msgid "Fatal error:"
-msgstr ""
+msgstr "Onulmaz hata:"
 
 msgid ""
 "The application has been authorised - you may now close this browser tab."
 msgstr ""
+"Uygulama yetkilendirildi - bu tarayıcı sekmesini artık kapatabilirsiniz."
 
 msgid "The application has been successfully authorised."
-msgstr ""
+msgstr "Uygulama yetkilendirmesi başarılı."
 
 msgid ""
 "Please open the following URL in your browser to authenticate the "
@@ -505,7 +529,7 @@ msgid ""
 msgstr ""
 
 msgid "Search:"
-msgstr ""
+msgstr "Arama:"
 
 msgid ""
 "Welcome to Joplin!\n"
@@ -515,6 +539,13 @@ msgid ""
 "\n"
 "For example, to create a notebook press `mb`; to create a note press `mn`."
 msgstr ""
+"Joplin'e hoşgeldiniz\n"
+"\n"
+"Klavye kısayolları için `:help shortcuts` yazın, veya kullanım bilgisi için "
+"sadece `:help` yazın.\n"
+"\n"
+"Örneğin, yeni bir defter yaratmak için `mb` tuşlarına basın; yeni bir not "
+"yaratmak için `mn` tuşlarına basın."
 
 msgid ""
 "One or more items are currently encrypted and you may need to supply a "
@@ -522,143 +553,147 @@ msgid ""
 "supplied the password, the encrypted items are being decrypted in the "
 "background and will be available soon."
 msgstr ""
+"Bir veya daha fazla nesne şifreli olarak saklanmış ve ana parolayı girmeniz "
+"gerekebilir. Şifrelemeyi çözmek için `e2ee decrypt` yazın. Eğer zaten "
+"parolayı girdiyseniz, şifreli nesneler arka planda çözülür ve birazdan "
+"kullanıma hazır oalcaktır."
 
 #, javascript-format
 msgid "Exporting to \"%s\" as \"%s\" format. Please wait..."
-msgstr ""
+msgstr "\"%s\"'e \"%s\" biçiminde dışa aktarım yapılıyor. Lütfen bekleyin..."
 
 #, javascript-format
 msgid "Importing from \"%s\" as \"%s\" format. Please wait..."
-msgstr ""
+msgstr "\"%s\"'den \"%s\" biçiminde içe aktarım yapılıyor. Lütfen bekleyin..."
 
 msgid "PDF File"
-msgstr ""
+msgstr "PDF dosyası"
 
 msgid "File"
-msgstr ""
+msgstr "Dosya"
 
 msgid "New note"
-msgstr ""
+msgstr "Yeni not"
 
 msgid "New to-do"
-msgstr ""
+msgstr "Yeni yapılacak işler listesi"
 
 msgid "New notebook"
-msgstr ""
+msgstr "Yeni defter"
 
 msgid "Import"
-msgstr ""
+msgstr "İçe aktar"
 
 msgid "Export"
-msgstr ""
+msgstr "Dışa aktar"
 
 msgid "Print"
-msgstr ""
+msgstr "Yazdır"
 
 #, javascript-format
 msgid "Hide %s"
-msgstr ""
+msgstr "Gizle %s"
 
 msgid "Quit"
-msgstr ""
+msgstr "Çıkış"
 
 msgid "Edit"
-msgstr ""
+msgstr "Değiştir"
 
 msgid "Copy"
-msgstr ""
+msgstr "Kopyala"
 
 msgid "Cut"
-msgstr ""
+msgstr "Kes"
 
 msgid "Paste"
-msgstr ""
+msgstr "Yapıştır"
 
 msgid "Select all"
-msgstr ""
+msgstr "Tümünü seç"
 
 msgid "Bold"
-msgstr ""
+msgstr "Kalın"
 
 msgid "Italic"
-msgstr ""
+msgstr "Eğik"
 
 msgid "Insert Date Time"
-msgstr ""
+msgstr "Tarih Saat gir"
 
 msgid "Edit in external editor"
-msgstr ""
+msgstr "Harici editör ile değiştir"
 
 msgid "Search in all the notes"
-msgstr ""
+msgstr "Tüm notlar içinde ara"
 
 msgid "View"
-msgstr ""
+msgstr "Göster"
 
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Kenar çubuğunu göster/gizle"
 
 msgid "Toggle editor layout"
-msgstr ""
+msgstr "Editör yerleşimini değiştir"
 
 msgid "Tools"
-msgstr ""
+msgstr "Araçlar"
 
 msgid "Synchronisation status"
-msgstr ""
+msgstr "Eşleştirme durumu"
 
 msgid "Web clipper options"
-msgstr ""
+msgstr "Web kırpıcı ayarları"
 
 msgid "Encryption options"
-msgstr ""
+msgstr "Şifreleme ayarları"
 
 msgid "General Options"
-msgstr ""
+msgstr "Genel ayarlar"
 
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 msgid "Website and documentation"
-msgstr ""
+msgstr "Web sitesi ve belgeler"
 
 msgid "Make a donation"
-msgstr ""
+msgstr "Bağış yap"
 
 msgid "Check for updates..."
-msgstr ""
+msgstr "Güncellemeleri kontrol et"
 
 msgid "About Joplin"
-msgstr ""
+msgstr "Joplin hakkında"
 
 #, javascript-format
 msgid "%s %s (%s, %s)"
-msgstr ""
+msgstr "%s %s (%s, %s)"
 
 #, javascript-format
 msgid "Open %s"
-msgstr ""
+msgstr "%s'i aç"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çık"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Vazgeç"
 
 msgid "Current version is up-to-date."
-msgstr ""
+msgstr "Mevcut sürüm güncel."
 
 msgid "An update is available, do you want to download it now?"
-msgstr ""
+msgstr "Bir güncelleme mevcut, şimdi indirmek ister misiniz?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Evet"
 
 msgid "No"
-msgstr ""
+msgstr "Hayır"
 
 msgid "Token has been copied to the clipboard!"
 msgstr ""
